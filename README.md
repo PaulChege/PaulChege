@@ -1,4 +1,16 @@
-## Hi there 👋
+## Hey! 👋
+
+<p> ⚙️ I'm a backend-focused software engineer and ruby enthusiast. I'm always exctied to build! </p>
+
+<p> 🎯 Expertise in: </p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ruby,rails,javascript,postgres,redis,rabbitmq" />
+</p>
+
+Let's connect: 
+📫 [LinkedIn](https://www.linkedin.com/in/paul-chege-30563399/) 📝 [Medium](https://medium.com/@pchegenjenga)
+
+
 
 <!--
 **PaulChege/PaulChege** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
