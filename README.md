@@ -1,6 +1,6 @@
 ## Hey! 👋
 
-<p> ⚙️ I'm a backend-focused software engineer and ruby enthusiast. Exctied to build! </p>
+<p> ⚙️ I'm a backend-focused software engineer and ruby enthusiast. Excited to build! </p>
 
 <p> 🎯 Expertise in: </p>
 <p align="left">
